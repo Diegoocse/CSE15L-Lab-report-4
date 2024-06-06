@@ -24,4 +24,6 @@
 
 6)Commit and push the resulting change to your Github account (you can pick any commit message!)
 
-<img width="630" alt="Screenshot 2024-06-05 at 8 20 59 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-4/assets/146890166/22e6b85a-2162-4888-a671-459dea22a589">
+<img width="617" alt="Screenshot 2024-06-05 at 8 22 31 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-4/assets/146890166/085853e9-aac9-4dde-9aca-053cd2573131">
+
+
