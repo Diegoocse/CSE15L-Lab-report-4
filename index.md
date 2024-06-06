@@ -2,7 +2,7 @@ Log into ieng6:
 
 <img width="826" alt="Screenshot 2024-06-05 at 6 52 28 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-4/assets/146890166/913c7e34-47f0-4936-b52c-86c60ab0a008">
 
-2) Keys pressed: ssh '<space>' dortegarobles@ieng6.ucsd.edu <enter>
+2) Keys pressed: ssh `<space>` dortegarobles@ieng6.ucsd.edu <enter>
 
    
 3) This command initiates an SSH connection to the ieng6 server using your ieng6 username, allowing you to access the server remotely.
