@@ -5,7 +5,7 @@ Log into ieng6:
 2) Keys pressed: ssh `<space>` dortegarobles@ieng6.ucsd.edu `<enter>`
 
    
-3) This command initiates an SSH connection to the ieng6 server using your ieng6 username, allowing you to access the server remotely.
+3) This command initiates an SSH connection to the ieng6 server using my ieng6 username, allows me access to remote server.
 
 
 
@@ -17,7 +17,7 @@ Clone your fork of the repository from your Github account (using the SSH URL):
 
 2) Keys pressed: git`<space>`clone `<space>` git@github.com:Diegoocse/lab7.git`<enter>`
    
-3) Clones the forked repository from your GitHub account to your local machine, providing you with a local copy of the repository to work with.
+3) Clones the forked repository from my GitHub account to my local machine, provides me with a local copy of the repository to work with.
 
 Run the tests, demonstrating that they fail:
 
@@ -28,7 +28,7 @@ was 2 up in the search history, so I used up arrow to access it. To execute  jav
 So that the test could run I pressed, `<up>``<up>``<up>``<enter>`
 
    
-3)  Changes the directory to the repository directory and runs the tests. The tests fail, indicating that there are issues in the code that need to be addressed.
+3)  compiles and runs the tests. The tests fail, indicating that there are issues in the code that need to be addressed.
 
 Edit the code file to fix the failing test:
 
@@ -36,7 +36,7 @@ Edit the code file to fix the failing test:
 
 2)Keys pressed were `<j>`so I could move down until I got to the bug section of the code. I pressed `<l>` to get to index1 and hovered over 1 pressed `<x>` then I pressed `<I>` and corrected 1 to 2 then I pressed `<esc>` to finish
    
-3) The command opens the Example.java file in the src directory for editing in the vim text editor.
+3) These commands edit the file in the vim text editor.
 
 
 Run the tests, demonstrating that they now succeed:
@@ -48,7 +48,7 @@ was 2 up in the search history, so I used up arrow to access it. To execute  jav
 So that the test could run I pressed, `<up>``<up>``<up>``<up>``<enter>`
 
 
-3)The command runs the run_tests.sh script, which executes the tests again after you made changes to the code in Example.java. This is to demonstrate that the failing test(s) have been fixed and the tests now pass successfully.
+3)compiles and runs previous failing tests. This is to demonstrate that the failing tests have been fixed and the tests now pass successfully.
 
 
 
@@ -58,8 +58,9 @@ Commit and push the resulting change to your Github account (you can pick any co
 
 2) Keys pressed: git`<space>`add`<space>`--all`<enter>`. git`<space>`commit`<space>`-m<`space>`”Fixed methods”. git`<space>`push
 
-3) git add .: Stages all modified files for the commit.
+3) For the commands:
+git add : adds all changes to the commit.
 git commit -m "Fixed methods": Commits the changes with the specified commit message.
-git push origin main: Pushes the committed changes to the main branch of your GitHub repository.
+git push: Pushes the committed changes to my main branch of my GitHub repository.
 
 
