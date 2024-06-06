@@ -1,9 +1,9 @@
 Log into ieng6:
 
-
 <img width="826" alt="Screenshot 2024-06-05 at 6 52 28 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-4/assets/146890166/913c7e34-47f0-4936-b52c-86c60ab0a008">
 
-1) de
+
+
    
 2) This command initiates an SSH connection to the ieng6 server using your ieng6 username, allowing you to access the server remotely.
 
@@ -12,7 +12,7 @@ Log into ieng6:
 
 Clone your fork of the repository from your Github account (using the SSH URL):
 
-1)
+
 <img width="747" alt="Screenshot 2024-06-05 at 6 58 44 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-4/assets/146890166/39cde5cc-ab2b-410c-afb7-f32f7d13ecbe">
 
 2) de
@@ -20,7 +20,6 @@ Clone your fork of the repository from your Github account (using the SSH URL):
 
 Run the tests, demonstrating that they fail:
 
-1) 
 <img width="1094" alt="Screenshot 2024-06-05 at 7 58 50 PM" src="https://github.com/Diegoocse/CSE15L-Lab-report-4/assets/146890166/1cccb726-f38c-4bdf-be62-e067fcd41c5d">
 
 
